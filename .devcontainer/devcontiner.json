@@ -1,6 +1,6 @@
-{
+  {
     "name": "Selenium Testing",
-    "image": "mcr.microsoft.com/devcontainers/python:3.10",  // Use a Python image
+    "image": "mcr.microsoft.com/devcontainers/python:3.10",
     "features": {
       "docker-in-docker": "latest"
     },
